@@ -1,0 +1,177 @@
+
+.hidden { display: none !important; }
+
+html, body { height: 100%; }
+
+* { box-sizing: border-box; }
+
+body { 
+    background: linear-gradient(#0fc086, green);
+	margin: 0 0 120px;
+	padding: 0;
+}
+
+main, 
+main { 
+	min-height: 100%; /*margin-bottom: -120px;*/
+	background-image: url("../images/background.jpg");
+}
+
+.chantry-section { position: relative; }
+
+header { padding: 20px; text-align: center; }
+
+footer {
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	height: 120px; 
+	color: white;
+	padding: 20px;
+}
+
+footer p { font-size: 0.8em; }
+
+
+.header {  
+	font-size: 2.5em; 
+	letter-spacing: 0.07em;
+	color: #fff;
+}
+
+nav ul { 
+	/*display: inline-block; */
+	margin: 0; 
+	padding: 50px 0;
+	text-align: center;
+}
+
+nav ul li { 
+	display: inline-block; 
+	margin: 0 30px; 
+	padding: 3px 6px;
+	border: 4px solid rgb(17, 168, 206);
+	cursor: pointer;
+}
+
+.main-logo { width: 450px; }
+
+.chantry { display: block; margin: 0 auto; }
+
+.chantry-land { padding-bottom: 200px; }
+@media screen and (min-width: 40em) {
+	.hidden { display: none !important; }
+
+html, body { height: 100%; }
+
+* { box-sizing: border-box; }
+
+body { 
+    background: linear-gradient(#0fc086, green);
+	margin: 0 0 120px;
+	padding: 0;
+}
+
+main,
+main { 
+	min-height: 100%; /*margin-bottom: -120px;*/
+	background-image: url("../images/background.jpg");
+}
+
+.chantry-section { position: relative; }
+
+header { padding: 20px; text-align: center; }
+
+footer {
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	height: 120px; 
+	color: white;
+	padding: 20px;
+}
+
+footer p { font-size: 0.8em; }
+
+
+.header {  
+	font-size: 2.5em; 
+	letter-spacing: 0.07em;
+	color: #fff;
+}
+
+nav ul { 
+	/*display: inline-block; */
+	margin: 0; 
+	padding: 50px 0;
+	text-align: center;
+}
+
+nav ul li { 
+	display: inline-block; 
+	margin: 0 30px; 
+	padding: 3px 6px;
+	border: 4px solid rgb(17, 168, 206);
+	cursor: pointer;
+}
+
+.chantry { display: block; margin: 0 auto; }
+
+.chantry-land { padding-bottom: 200px; }
+	}
+	
+@media screen and (min-width: 64em) {
+	.hidden { display: none !important; }
+
+html, body { height: 100%; }
+
+* { box-sizing: border-box; }
+
+body { 
+    background: linear-gradient(#0fc086, green);
+	margin: 0 0 120px;
+	padding: 0;
+}
+
+main,
+main { 
+	min-height: 100%; /*margin-bottom: -120px;*/
+	background-image: url("../images/background.jpg");
+}
+
+.chantry-section { position: relative; }
+
+header { padding: 20px; text-align: center; }
+
+footer {
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	height: 120px; 
+	color: white;
+	padding: 20px;
+}
+
+footer p { font-size: 0.8em; }
+
+
+.header {  
+	font-size: 2.5em; 
+	letter-spacing: 0.07em;
+	color: #fff;
+}
+
+nav ul { 
+	/*display: inline-block; */
+	margin: 0; 
+	padding: 50px 0;
+	text-align: center;
+}
+
+nav ul li { 
+	display: inline-block; 
+	margin: 0 30px; 
+	padding: 3px 6px;
+	border: 4px solid rgb(17, 168, 206);
+	cursor: pointer;
+}
+
+.chantry { display: block; margin: 0 auto; }
+
+.chantry-land { padding-bottom: 200px; }
+}
+
